@@ -43,8 +43,8 @@ long_string = ( "Это очень длинная строка, " "котору�
 
 ```
 import os
-import sys
-from typing import List, Dict
+import sys from typing
+import List, Dict
 ```
 
 
